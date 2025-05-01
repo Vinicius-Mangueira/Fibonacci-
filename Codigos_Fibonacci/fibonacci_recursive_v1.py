@@ -1,4 +1,3 @@
-#!/usr/local/bin/python3
 def fibonacci(quantidade, sequencia=(0, 1)):
     # Importante: Condição de parada
     if len(sequencia) == quantidade:
